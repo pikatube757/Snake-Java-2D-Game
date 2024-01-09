@@ -1,0 +1,6 @@
+target/
+*nb-configuration.xml
+**/nbactions.xml
+**/nbproject/
+*/jar
+bin

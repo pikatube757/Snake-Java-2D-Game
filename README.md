@@ -9,3 +9,9 @@ The used IDE is Eclipse (I uploaded all project artifacts), also the game JAR fi
 If you have any questions or want to continue this project feel free to do so :)
 
 Please visit my website. http://www.mohamedtalaat.net/
+
+To build with apache maven first install it and run from the project directory:
+
+mvn package
+java -jar target/snake2d-1.0-SNAPSHOT.jar
+
